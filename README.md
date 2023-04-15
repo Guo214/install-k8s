@@ -9,10 +9,10 @@ git init
 touch README.md
 git add README.md
 git commit -m "first commit"
-git remote add origin https://gitee.com/guo214/install-k8s.git
-git push -u origin "master"
+git remote add origin https://github.com/guo214/install-k8s.git
+git push -u origin "main"
 
 已有仓库：
 cd existing_git_repo
-git remote add origin https://gitee.com/guo214/install-k8s.git
-git push -u origin "master"
+git remote add origin https://github.com/guo214/install-k8s.git
+git push -u origin "main"
